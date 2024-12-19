@@ -1,1 +1,1 @@
---platform linux/amd64/v4 cooderl/wewe-rss-sqlite:latest
+--platform linux/amd64/v4 cooderl/wewe-rss-sqlite:v2.6.1
